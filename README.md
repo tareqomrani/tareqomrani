@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I’m rebuilding my tech career after a 3-year break — with a new focus on **cybersecurity and artificial intelligence**.
 
-I previously worked in SaaS customer support and platform operations. Today, I’m reskilling through Coursera to pursue opportunities in **cybersecurity analysis, AI engineering**, and related fields.
+I previously worked in SaaS and B2B customer support and platform operations. Today, I’m reskilling through Coursera to pursue opportunities in **cybersecurity analysis, AI engineering**, and related fields.
 
 **Currently learning:**  
 - Google Cybersecurity Professional Certificate  
