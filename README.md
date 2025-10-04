@@ -31,6 +31,6 @@ I previously worked in SaaS and B2B customer support and success operations. Tod
 **Goals:**  
 - Build real-world cybersecurity and AI projects  
 - Share my work on GitHub and Notion  
-- Transition into AI, cybersecurity, or trust/safety engineering
+- Pivot into AI, cybersecurity, or trust/safety engineering
 
 [LinkedIn](https://linkedin.com/in/tareqomrani)
