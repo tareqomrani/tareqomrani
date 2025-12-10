@@ -11,7 +11,7 @@
 
 ## Hi, I’m Tareq Omrani
 
-I’m rebuilding my career with a focused specialization in **autonomous systems, AI engineering, UAV simulation, and cybersecurity**.  
+I’m rebuilding my **tech career** with a focused specialization in **autonomous systems, AI engineering, UAV simulation, and cybersecurity**.  
 My work explores how intelligent models, physics-based simulation, and secure system design come together to create the next generation of autonomous platforms.
 
 I develop educational and research-grade tools that combine:
@@ -47,29 +47,22 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 
 ## 🚀 Featured Work
 
-### **UAV Battery Efficiency Estimator**
-Physics-based modeling for fixed-wing and hybrid UAVs, including energy use, fuel draw, IR/thermal signatures, weather effects, and AI-style mission guidance.  
-**Launch App:**  
-👉 https://share.streamlit.io/u/tareqomrani  
-*(Once individual apps are deployed, I can add direct links.)*
+### UAV Battery Efficiency Estimator
+Physics-based modeling for fixed-wing and hybrid UAVs, including energy use, fuel draw, IR/thermal signatures, terrain and wind penalties, and AI-style mission guidance.
 
 ---
 
-### **VTOL Precision Landing Simulator**
-RTK GNSS, LiDAR-style ranging, MPC-style autonomous landing logic, and playback animation.  
-**Launch App:**  
-👉 https://share.streamlit.io/u/tareqomrani
+### VTOL Precision Landing Simulator
+RTK GNSS + LiDAR-style ranging, autonomous landing logic, and playback visualization.
 
 ---
 
-### **Compass Variance & Drift Simulator**
-Visualizes magnetic error, drift over time, true vs magnetic heading, and autonomous response logic (alert, reroute, RTB).  
-**Launch App:**  
-👉 https://share.streamlit.io/u/tareqomrani
+### Compass Variance & Drift Simulator
+Visualizes magnetic error, drift over time, true vs magnetic heading, and autonomous response logic (alert, reroute, RTB).
 
 ---
 
-### **Autonomous Intelligence Networks (AIN)**
+### Autonomous Intelligence Networks (AIN)
 Exploration of multi-UAV coordination, autonomous reasoning layers, distributed decision-making, and energy-aware routing concepts.
 
 ---
@@ -91,4 +84,4 @@ This gives my autonomy work a **security-first mindset**, which is increasingly 
 ## 📬 Connect With Me
 
 - **[LinkedIn](https://linkedin.com/in/tareqomrani)**  
-- **[Streamlit](https://share.streamlit.io/u/tareqomrani)**
+- **[Streamlit](https://share.streamlit.io/user/tareqomrani)**
