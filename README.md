@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner-gold.png" alt="Tareq Omrani — AI Engineering & Autonomous Systems" width="800">
+</p>
 
 <!--
 **tareqomrani/tareqomrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
