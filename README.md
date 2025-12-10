@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-gold.png" alt="Tareq Omrani — AI Engineering & Autonomous Systems" width="800">
+  <img src="assets%3Abanner-gold.png.JPG" alt="Tareq Omrani — AI Engineering & Autonomous Systems" width="800">
 </p>
 
 <!--
