@@ -23,7 +23,7 @@ I develop educational and research-grade tools that combine:
 - 🔐 **Cybersecurity principles applied to autonomous systems**
 - 📡 **GNSS-denied navigation, compass variance, and risk modeling**
 
-This portfolio reflects my broader transition into **AI-enabled autonomous systems** with an emphasis on technical depth, realism, and cybersecurity awareness.
+This portfolio reflects my broader transition into **AI-enabled autonomous systems**, including work on **Autonomous UAV Networks**, with an emphasis on technical depth, realism, and cybersecurity awareness.
 
 ---
 
@@ -62,8 +62,8 @@ Visualizes magnetic error, drift over time, true vs magnetic heading, and autono
 
 ---
 
-### Autonomous Intelligence Networks (AIN)
-Exploration of multi-UAV coordination, autonomous reasoning layers, distributed decision-making, and energy-aware routing concepts.
+### Autonomous UAV Networks (Concept & Simulation Work)
+Exploration of multi-UAV coordination, distributed autonomy, inter-aircraft communication, and network-aware mission planning.
 
 ---
 
