@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="assets%3Abanner-gold.png.JPG" alt="Tareq Omrani — AI Engineering & Autonomous Systems" width="800">
+  <img src="assets%3Abanner-gold.png.JPG" alt="Tareq Omrani — Portfolio Banner" width="800">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-000000?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-2E8B57?logo=databricks&logoColor=white" />
 </p>
 
 ## Hi, I’m Tareq Omrani
@@ -23,10 +30,10 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 ## 🎯 Current Focus
 
 - Advancing my **AI-enabled UAV simulation suite**, including:
-  - Battery and hybrid propulsion modeling  
+  - Battery & hybrid propulsion modeling  
   - IR/thermal risk estimation  
-  - Autonomous landing and approach logic  
-  - Drift and compass variance simulation  
+  - Autonomous landing & approach logic  
+  - Drift & compass variance simulation  
 - Expanding my foundation in **robotics, control concepts, autonomy, and sensor fusion**
 - Strengthening my technical background through ongoing **Coursera coursework** in:
   - Artificial Intelligence  
@@ -40,19 +47,30 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 
 ## 🚀 Featured Work
 
-- **UAV Battery Efficiency Estimator**  
-  Physics-based modeling for fixed-wing and hybrid UAVs, including battery draw, fuel use, IR/thermal risk, terrain and wind penalties, and AI-style mission suggestions.
+### **UAV Battery Efficiency Estimator**
+Physics-based modeling for fixed-wing and hybrid UAVs, including energy use, fuel draw, IR/thermal signatures, weather effects, and AI-style mission guidance.  
+**Launch App:**  
+👉 https://share.streamlit.io/u/tareqomrani  
+*(Once individual apps are deployed, I can add direct links.)*
 
-- **VTOL Precision Landing Simulator**  
-  Streamlit app concept focused on RTK GNSS, LiDAR-style ranging, and autonomous landing logic with playback-style visualizations.
+---
 
-- **Compass Variance & Drift Simulator**  
-  Educational tool to visualize magnetic vs true heading, compass error, drift over time, and AI/autopilot responses (alert, reroute, RTB).
+### **VTOL Precision Landing Simulator**
+RTK GNSS, LiDAR-style ranging, MPC-style autonomous landing logic, and playback animation.  
+**Launch App:**  
+👉 https://share.streamlit.io/u/tareqomrani
 
-- **Autonomous Intelligence Networks (AIN)**  
-  Exploration of multi-UAV coordination, autonomous decision layers, and energy-aware mission planning.
+---
 
-Each project is designed with a focus on **realism, security considerations, and AI-assisted mission reasoning**.
+### **Compass Variance & Drift Simulator**
+Visualizes magnetic error, drift over time, true vs magnetic heading, and autonomous response logic (alert, reroute, RTB).  
+**Launch App:**  
+👉 https://share.streamlit.io/u/tareqomrani
+
+---
+
+### **Autonomous Intelligence Networks (AIN)**
+Exploration of multi-UAV coordination, autonomous reasoning layers, distributed decision-making, and energy-aware routing concepts.
 
 ---
 
@@ -61,10 +79,10 @@ Each project is designed with a focus on **realism, security considerations, and
 Before pivoting into AI and autonomy, I worked in SaaS and B2B customer platforms supporting resilience, alerting systems, and operational security concerns.  
 Today, I’m pairing that experience with:
 
-- Network and systems security fundamentals  
-- Threat analysis and risk modeling  
-- Detection logic and incident thinking  
-- Real-world cybersecurity scenarios explored through Coursera and hands-on practice  
+- Network & systems security fundamentals  
+- Threat analysis & risk modeling  
+- Detection logic & incident thinking  
+- Real-world cybersecurity scenarios explored through Coursera  
 
 This gives my autonomy work a **security-first mindset**, which is increasingly critical for modern uncrewed systems.
 
@@ -73,4 +91,4 @@ This gives my autonomy work a **security-first mindset**, which is increasingly 
 ## 📬 Connect With Me
 
 - **[LinkedIn](https://linkedin.com/in/tareqomrani)**  
-- **[Streamlit](https://streamlit.io/user/tareqomrani)**
+- **[Streamlit](https://share.streamlit.io/u/tareqomrani)**
