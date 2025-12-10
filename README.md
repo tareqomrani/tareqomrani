@@ -2,19 +2,6 @@
   <img src="assets%3Abanner-gold.png.JPG" alt="Tareq Omrani — AI Engineering & Autonomous Systems" width="800">
 </p>
 
-<!--
-**tareqomrani/tareqomrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
 ## Hi, I’m Tareq Omrani
 
 I’m rebuilding my career with a focused specialization in **autonomous systems, AI engineering, UAV simulation, and cybersecurity**.  
@@ -24,7 +11,7 @@ I develop educational and research-grade tools that combine:
 
 - ✈️ **Autonomous UAV modeling & aerodynamics**
 - ⚙️ **Hybrid propulsion analysis & energy-aware mission planning**
-- 🧠 **AI-driven reasoning layers using ChatGPT + prompt engineering**
+- 🧠 **AI-driven reasoning layers using ChatGPT + prompt engineering for modeling and simulation**
 - 🌐 **Navigation, sensor fusion, and mission logic**
 - 🔐 **Cybersecurity principles applied to autonomous systems**
 - 📡 **GNSS-denied navigation, compass variance, and risk modeling**
@@ -35,7 +22,11 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 
 ## 🎯 Current Focus
 
-- Advancing my **AI-enabled UAV simulation suite** (battery modeling, hybrid propulsion, IR/thermal risk, autonomous landing, drift simulation)
+- Advancing my **AI-enabled UAV simulation suite**, including:
+  - Battery and hybrid propulsion modeling  
+  - IR/thermal risk estimation  
+  - Autonomous landing and approach logic  
+  - Drift and compass variance simulation  
 - Expanding my foundation in **robotics, control concepts, autonomy, and sensor fusion**
 - Strengthening my technical background through ongoing **Coursera coursework** in:
   - Artificial Intelligence  
@@ -49,10 +40,17 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 
 ## 🚀 Featured Work
 
-- **UAV Battery Efficiency Estimator** — Physics-based modeling, hybrid systems, IR threat estimation  
-- **VTOL Precision Landing Simulator** — LiDAR, RTK, MPC-style landing logic, playback animation  
-- **Compass Variance & Drift Simulator** — Autonomous response logic to heading and magnetic error  
-- **Autonomous Intelligence Networks (AIN)** — Exploration of multi-UAV coordination and distributed autonomy
+- **UAV Battery Efficiency Estimator**  
+  Physics-based modeling for fixed-wing and hybrid UAVs, including battery draw, fuel use, IR/thermal risk, terrain and wind penalties, and AI-style mission suggestions.
+
+- **VTOL Precision Landing Simulator**  
+  Streamlit app concept focused on RTK GNSS, LiDAR-style ranging, and autonomous landing logic with playback-style visualizations.
+
+- **Compass Variance & Drift Simulator**  
+  Educational tool to visualize magnetic vs true heading, compass error, drift over time, and AI/autopilot responses (alert, reroute, RTB).
+
+- **Autonomous Intelligence Networks (AIN)**  
+  Exploration of multi-UAV coordination, autonomous decision layers, and energy-aware mission planning.
 
 Each project is designed with a focus on **realism, security considerations, and AI-assisted mission reasoning**.
 
@@ -64,9 +62,8 @@ Before pivoting into AI and autonomy, I worked in SaaS and B2B customer platform
 Today, I’m pairing that experience with:
 
 - Network and systems security fundamentals  
-- Threat analysis  
-- Risk modeling  
-- Detection logic  
+- Threat analysis and risk modeling  
+- Detection logic and incident thinking  
 - Real-world cybersecurity scenarios explored through Coursera and hands-on practice  
 
 This gives my autonomy work a **security-first mindset**, which is increasingly critical for modern uncrewed systems.
