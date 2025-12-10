@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## Hi, I’m Tareq Omrani
 
 I’m rebuilding my career with a focused specialization in **autonomous systems, AI engineering, UAV simulation, and cybersecurity**.  
@@ -76,5 +75,5 @@ This gives my autonomy work a **security-first mindset**, which is increasingly 
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** https://linkedin.com/in/tareqomrani  
-- **Streamlit Projects:** https://streamlit.io/user/tareqomrani
+- **[LinkedIn](https://linkedin.com/in/tareqomrani)**  
+- **[Streamlit](https://streamlit.io/user/tareqomrani)**
