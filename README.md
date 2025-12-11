@@ -84,7 +84,7 @@ Exploration of multi-UAV coordination, distributed autonomy, inter-aircraft comm
 
 ---
 
-## 🔐 Cybersecurity Education and Awareness
+## 🔐 Cybersecurity Education & Awareness
 
 Before pivoting deeper into AI and autonomy, I worked extensively in **SaaS and B2B support environments**, managing real-time alerting, uptime, customer workflows, and operational reliability.  
 This background directly informs my approach to engineering:
