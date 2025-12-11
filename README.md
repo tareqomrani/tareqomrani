@@ -14,6 +14,18 @@
 I’m rebuilding my **tech career** with a focused specialization in **autonomous systems, AI engineering, UAV simulation, and cybersecurity**.  
 My work explores how intelligent models, physics-based simulation, and secure system design come together to create the next generation of autonomous platforms.
 
+A core part of my engineering philosophy is shaped by my years in **technical support and customer-facing operational roles**.  
+That experience taught me that the most valuable tools are:
+
+- **Easy to understand**  
+- **Easy to operate**  
+- **Hard to misuse**  
+- **Impossible to outgrow**
+
+This mindset guides everything I build: **high-utility systems wrapped in clean, intuitive interfaces.**
+
+---
+
 I develop educational and research-grade tools that combine:
 
 - ✈️ **Autonomous UAV modeling & aerodynamics**
@@ -31,6 +43,7 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 
 - Advancing my **AI-enabled UAV simulation suite**, including:
   - Battery & hybrid propulsion modeling  
+  - Multirotor (quad) energy modeling  
   - IR/thermal risk estimation  
   - Autonomous landing & approach logic  
   - Drift & compass variance simulation  
@@ -48,17 +61,21 @@ This portfolio reflects my broader transition into **AI-enabled autonomous syste
 ## 🚀 Featured Work
 
 ### UAV Battery Efficiency Estimator
-Physics-based modeling for fixed-wing and hybrid UAVs, including energy use, fuel draw, IR/thermal signatures, terrain and wind penalties, and AI-style mission guidance.
+Physics-based modeling for **fixed-wing**, **hybrid-propulsion**, and **multirotor (quad) UAVs**.  
+Includes realistic battery and fuel draw, aerodynamic and terrain penalties, wind effects, IR/thermal signature estimation, and AI-style mission guidance.  
+Designed with a strong emphasis on clarity, simplicity, and operator usability.
 
 ---
 
 ### VTOL Precision Landing Simulator
-RTK GNSS + LiDAR-style ranging, autonomous landing logic, and playback visualization.
+RTK GNSS + LiDAR-style ranging, autonomous landing logic, and playback visualization.  
+Built to demonstrate how high-fidelity sensing blends with simplified operator interfaces.
 
 ---
 
 ### Compass Variance & Drift Simulator
-Visualizes magnetic error, drift over time, true vs magnetic heading, and autonomous response logic (alert, reroute, RTB).
+Visualizes magnetic error, drift over time, true vs magnetic heading, and autonomous response logic (alert, reroute, RTB).  
+A teaching tool focused on making complex navigation concepts intuitive.
 
 ---
 
@@ -69,15 +86,16 @@ Exploration of multi-UAV coordination, distributed autonomy, inter-aircraft comm
 
 ## 🔐 Cybersecurity Background
 
-Before pivoting into AI and autonomy, I worked in SaaS and B2B customer platforms supporting resilience, alerting systems, and operational security concerns.  
-Today, I’m pairing that experience with:
+Before pivoting deeper into AI and autonomy, I worked extensively in **SaaS and B2B support environments**, managing real-time alerting, uptime, customer workflows, and operational reliability.  
+This background directly informs my approach to engineering:
 
-- Network & systems security fundamentals  
-- Threat analysis & risk modeling  
-- Detection logic & incident thinking  
-- Real-world cybersecurity scenarios explored through Coursera  
+- **Reliability first**  
+- **Clarity in design**  
+- **Secure-by-default architecture**  
+- **Anticipate failure modes, not users**  
+- **Build tools that real operators can trust**
 
-This gives my autonomy work a **security-first mindset**, which is increasingly critical for modern uncrewed systems.
+I continue developing this mindset through ongoing cybersecurity coursework and real-world attack/defense modeling.
 
 ---
 
